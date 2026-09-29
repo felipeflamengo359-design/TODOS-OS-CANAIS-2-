@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTVLCOPT:network-caching=5000
+
 //////////////////////////////////CANAIS ABERTOS\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/waZJG1M.png",Globo RJ HD
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="http://logos.appscms.xyz/logos/2025/globo.png",Globo SP 4K
@@ -73,7 +74,9 @@ https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://i.imgur.com/03l7P4i.png",TV Rio Preto
 https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
+
 ///////////////////////////////CANAIS DE ESPORTES\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 ''''''''''''''''''''''''''''''''''''''''''''ESPN'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 #EXTINF:-1 group-title="ESPN" tvg-logo="http://www.fontedecanais.gs/logos/canais/espn.png",ESPN FHD
 http://64.31.23.207:80/59471019/60849037/3460182.m3u8
@@ -97,6 +100,7 @@ EXTINF:-1 group-title="ESPN" tvg-logo="https://imgur.com/a/mdFyDOA",ESPN 5 FHD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8826.ts
 EXTINF:-1 group-title="ESPN" tvg-logo="https://i.imgur.com/Zz2VFpL.png",ESPN 6 HD
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
+
 ''''''''''''''''''''''''''''''''''''''''''''PREMIERE'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 #EXTINF:-1 group-title="﻿Premiere" tvg-logo="https://i.postimg.cc/WbykxQpJ/home-share-1b75cdaa.png",﻿Premiere 1 FHD
 http://64.31.23.207:80/59471019/60849037/3460209.m3u8
@@ -132,7 +136,9 @@ http://64.31.23.207:80/59471019/60849037/3460230.m3u8
 http://64.31.23.207:80/59471019/60849037/324401.m3u8
 #EXTINF:-1 group-title="﻿Premiere" tvg-logo="http://logos.appscms.xyz/logos/2025/premiere.png",﻿Premiere Clubes FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72262.ts
+
 ''''''''''''''''''''''''''''''''''''''''''''SPORTTV'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
 #EXTINF:-1 group-title="SporTV" tvg-logo="http://logos.appscms.xyz/logos/2025/sportv.png",SporTV 4K
 http://64.31.23.207:80/59471019/60849037/324391.m3u8
 #EXTINF:-1 group-title="SporTV" tvg-logo="http://www.fontedecanais.gs/logos/canais/sportv.png",SporTV FHD
@@ -149,7 +155,9 @@ http://64.31.23.207:80/59471019/60849037/3460206.m3u8
 http://64.31.23.207:80/59471019/60849037/3460207.m3u8
 #EXTINF:-1 group-title="SporTV" tvg-logo="https://i.postimg.cc/WbYGTd88/sportv4.png",SporTV 4 FHD [H265]
 http://tjtor8411.com:80/Osiel123/Felicidade321/276092.ts
+
 ---------------------------------------------------COMBATE UFC-----------------------------------------------------------------
+
 #EXTINF:-1 group-title="UFC COMBATE" tvg-logo="https://i.postimg.cc/Pxnb904c/home-share-combate-343f6619.png",Combate FHD
 http://64.31.23.207:80/59471019/60849037/297542.m3u8
 #EXTINF:-1 group-title="UFC COMBATE" tvg-logo="http://logos.imperioapps.top/UFC_FIGHT_PASS.png",UFC Fight Pass 01
@@ -164,7 +172,9 @@ http://64.31.23.207:80/59471019/60849037/297548.m3u8
 http://64.31.23.207:80/59471019/60849037/297549.m3u8
 #EXTINF:-1 group-title="UFC COMBATE" tvg-logo="http://logos.imperioapps.top/UFC_FIGHT_PASS.png",UFC Fight Pass 03²
 http://64.31.23.207:80/59471019/60849037/297550.m3u8
+
 ---------------------------------------------------------------------------------------------------------------------------------
+
 #EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://images.seeklogo.com/logo-png/48/1/fla-tv-logo-png_seeklogo-487995.png",FLA TV
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/509957 
 #EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo6k1nx5lYE2ayFiISmipYqhDh3Un7_FF5N778YKThhNKecjYKFWxTtsc&s=10",BR SPORT FHD
@@ -309,7 +319,9 @@ https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/WPT/World_Poker_Tour_BR/World_Poker_Tour.m3u8
 #EXTINF:-1 group-title="CANAIS DE ESPORTES" tvg-logo="https://i.postimg.cc/xdfNmYtB/image.png",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
 /////////////////////////////////CANAIS DE ENTRETENIMENTO\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="https://play-lh.googleusercontent.com/IkR3g644-6QFD55185zrdsqRINb3QynWPX2Z1nxMWpE3jXZpRvBYeOdIVnWS1vfUAmP83G4FuOv79x3hH1t2gg",Mega TV HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/104925.ts
 #EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="https://canalsaborearte.uol.com.br/_next/static/media/sabor-e-arte-canais-newco.eeb8cd0f.png",Sabor & Arte FHD [H265]
@@ -354,7 +366,9 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/104909.ts
 http://tjtor8411.com:80/Osiel123/Felicidade321/76923.ts
 #EXTINF:-1 group-title="CANAIS DE ENTRETENIMENTO" tvg-logo="https://web.l2kinternet.com.br/wp-content/uploads/2025/02/Netflix-L2K-Internet-223x300.jpg",EVENTOS DA NETFLIX
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/553082
+
 ///////////////////////////////////CANAIS DE NOTICIAS\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="CANAIS DE NOTICIAS" tvg-logo="http://logos.appscms.xyz/logos/2025/cnnbrasil.png",CNN Brasil 4K
 http://64.31.23.207:80/59471019/60849037/324379.m3u8
 #EXTINF:-1 group-title="CANAIS DE NOTICIAS" tvg-logo="http://wood1.de:80/images/396784fc8e98e16f8b943aac17e89f60.png",Globo News 4K
@@ -377,14 +391,21 @@ http://79.127.238.228:14093/
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 #EXTINF:-1 group-title="CANAIS DE NOTICIAS" tvg-logo="https://i.imgur.com/ozCnnDg.png",TV Senado | HD
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+
+
 ///////////////////////////////////////////   CANAIS DE VARIEDADES        \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="Amazon Prime Video" tvg-logo="http://www.fontedecanais.gs/logos/canais/primevideo.png",Amazon Prime Video 01
 http://64.31.23.207:80/59471019/60849037/3460179.m3u8
 #EXTINF:-1 group-title="Amazon Prime Video" tvg-logo="http://www.fontedecanais.gs/logos/canais/primevideo.png",Amazon Prime Video 02
 http://64.31.23.207:80/59471019/60849037/3460180.m3u8
 #EXTINF:-1 group-title="Amazon Prime Video" tvg-logo="http://www.fontedecanais.gs/logos/canais/primevideo.png",Amazon Prime Video 03
 http://64.31.23.207:80/59471019/60849037/3460181.m3u8
+
+
+
 /////////////////////////////////////////////// CANAIS DE FILMES E SERIES\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/c/c6/Film-arts.jpg/revision/latest?cb=20200501202644&path-prefix=pt-br",FILME E ARTE FHD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/855
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/c/c6/Film-arts.jpg/revision/latest?cb=20200501202644&path-prefix=pt-br",FILME E ARTE HD
@@ -555,18 +576,31 @@ http://corruptx.org:80/3llohwk4g9/kwf099q30o/594017.ts
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/594012.ts
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo=""MAX 08 HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/594014.ts
+
+
+
+
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo=""MAX 08 HD
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/594014.ts
+
+
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo=""Trace Brazuca FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72386.ts
+
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo=""Trace Brazuca HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72388.ts
+
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo=""Paramount + 1 FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72977.ts
+
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo=""Paramount + 2 4K
 http://tjtor8411.com:80/Osiel123/Felicidade321/103523.ts
+
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo=""Paramount + 2 HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72983.ts
+
+
+
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo=""Paramount + 3 SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72988.ts
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo=""Paramount + 4 4K
@@ -589,6 +623,11 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/90696.ts
 http://corruptx.org:80/3llohwk4g9/kwf099q30o/8961.ts
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="https://i.postimg.cc/hjD8wQWM/521293.webp"Megapix HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72169.ts
+
+
+
+
+
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png",Prime Box HD
 http://138.204.86.4:8080/PRIME_BOX_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="https://i.imgur.com/K21P6kb.png",Revry Brasil
@@ -643,7 +682,9 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/104911.ts
 http://tjtor8411.com:80/Osiel123/Felicidade321/71833.ts
 #EXTINF:-1 group-title="CANAIS DE FILMES E SERIES" tvg-logo="https://i.postimg.cc/prNjvm3w/cinemax-hd.png"Cinemax HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71835.ts
+
 //////////////////////////////////////////////////////CANAIS DE DOCUMENTARIOS \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="http://logos.imperioapps.top/DISCOVERY.png",Discovery Channel FHD
 http://64.31.23.207:80/59471019/60849037/297936.m3u8
 #EXTINF:-1 group-title="CANAIS DISCOVERY" tvg-logo="https://i.imgur.com/dgGgYjc.png",Discovery Channel HD
@@ -740,7 +781,9 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 https://cc-4e6doav3fdfaw.akamaized.net/playlist.m3u8
 #EXTINF:-1 group-title=""CANAIS DE DOCUMENTARIOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1OqEWauZnYhzpWYSN5DTV0L9Uj.jpg",FEBRE DO OURO
 http://dnslm.online:80/4x6cXF/ehfxdp/507967.m3u8
+
 //////////////////////////////////////////////////////////////////////CANAIS DE NOVELAS\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="CANAIS DE NOVELAS" tvg-logo="http://www.fontedecanais.me/logos/canais/globoplaynovelas.png",Globoplay Novelas FHD
 http://64.31.23.207:80/59471019/60849037/518595.m3u8
 #EXTINF:-1 group-title="CANAIS DE NOVELAS" tvg-logo="http://www.fontedecanais.me/logos/canais/universalreality.png",Universal Reality FHD
@@ -761,7 +804,9 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/576p-vtt/
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Samsung/A_Escrava_Isaura_BR/A_Escrava_Isaura.m3u8
 #EXTINF:-1 group-title="CANAIS DE NOVELAS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20250826T004843SQUARE.png",Coreano by CJ ENM
 https://jmp2.uk/stvp-ES1700003C6
+
 ////////////////////////////////////////////////CANAIS DE ANIME\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="CANAIS DE ANIME" tvg-logo="https://i.imgur.com/aq2lMmL.png",OTAKU SIGN TV
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS DE ANIME" tvg-logo="https://w7.pngwing.com/pngs/269/263/png-transparent-logo-anime-a-television-anime-television-angle-text.png",ANIME TV
@@ -776,7 +821,9 @@ http://146.19.49.197:81/live/loco_low/index.m3u8
 http://146.19.49.197:81/live/loco.m3u8
 #EXTINF:-1 group-title="CANAIS DE ANIME" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png",Anime XTV (High Server 1)
 http://animezonetv.net:81/live_hls/animetest/index.m3u8
+
 ////////////////////////////////////////////////CANAIS INFANTIS\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="http://www.fontedecanais.me/logos/canais/adultswim.png",Adult Swim FHD
 http://64.31.23.207:80/59471019/60849037/518592.m3u8
 #EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="http://www.fontedecanais.me/logos/canais/adultswim.png",Adult Swim HD
@@ -857,7 +904,9 @@ http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_channelId=88876021
 #EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="https://i.imgur.com/LJ6CKPH.png",Disney Channel Pt
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+
 //////////////////////////////////////////////////VOD SERIES - NOVELA TURCA\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="Novela |  TURCA" tvg-logo="https://i.imgur.com/MU4p8Ys.png",Daha 17 EP01
 http://shd13.oneplayer.site/SHD13/317883/1x1LEG.mp4
 #EXTINF:-1 group-title="Novela |  TURCA" tvg-logo="https://i.imgur.com/MU4p8Ys.png",Daha 17 EP02
@@ -878,7 +927,9 @@ http://shd13.oneplayer.site/SHD13/317883/1x8LEG.mp4
 http://shd13.oneplayer.site/SHD13/317883/1x9LEG.mp4
 #EXTINF:-1 group-title="Novela |  TURCA" tvg-logo="https://i.imgur.com/MU4p8Ys.png",Daha 17 EP10
 http://shd13.oneplayer.site/SHD13/317883/1x10LEG.mp4
+
 //////////////////////////////////////////////////VOD SERIES\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="Série | AGENTE KIM REATIVADO  S01" tvg-logo="https://i.imgur.com/Mp1t2mi.png",S01 E01
 http://shd13.oneplayer.site/SHD13/296206/1x1.mp4
 #EXTINF:-1 group-title="Série | AGENTE KIM REATIVADO  S01" tvg-logo="https://i.imgur.com/Mp1t2mi.png",S01 E02
@@ -1199,7 +1250,9 @@ http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582
 http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/205040/1x15.mp4
 #EXTINF:-1 group-title="Série | ADAMAS S01" tvg-logo="https://imgur.com/TSwMZdw.png",S01 E16
 http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/205040/1x16.mp4
+
 //////////////////////////////////////////////////VOD SERIES ANIME \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="Série | ONE PIECE: A Série S01" tvg-logo="https://i.imgur.com/3UrlEDw.png",ONE PIECE: A Série E01
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/1x1.mp4
 #EXTINF:-1 group-title="Série | ONE PIECE: A Série S01" tvg-logo="https://i.imgur.com/3UrlEDw.png",ONE PIECE: A Série E02
@@ -1232,7 +1285,9 @@ http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/2x7.mp4
 #EXTINF:-1 group-title="Série | ONE PIECE: A Série S02" tvg-logo="https://i.imgur.com/QZWJzjW.png",ONE PIECE: A Série E08
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/2x8.mp4
+
 ////////////////////////////////////////////////////////////VOD SERIES\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="Série | O DIA DO CHACAL S01" tvg-logo="https://imgur.com/9X6RWFv.png",S01 E01
 http://shd12.oneplayer.site/token/SHD12/222766/1x1.mp4
 #EXTINF:-1 group-title="Série | O DIA DO CHACAL S01" tvg-logo="https://imgur.com/9X6RWFv.png",S01 E02
@@ -1557,7 +1612,9 @@ http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/12
 http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/2x7.mp4
 #EXTINF:-1 group-title="Série | DOM S02" tvg-logo="https://i.imgur.com/uRwUsPt.png",S02 E08
 http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/2x8.mp4
+
 //////////////////////////////////////////////////VOD SERIES DORAMA \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="Reality | MEU NAMORADO COREANO S01" tvg-logo="https://i.imgur.com/xCkPKBy.png",S01 E05
 http://shd13.oneplayer.site/SHD13/292493/1x5.mp4
 #EXTINF:-1 group-title="Reality | MEU NAMORADO COREANO S01" tvg-logo="https://i.imgur.com/xCkPKBy.png",S01 E06
@@ -1948,7 +2005,9 @@ http://shd13.oneplayer.site/SHD13/283776/1x5.mp4
 http://shd13.oneplayer.site/SHD13/283776/1x6.mp4
 #EXTINF:-1 group-title="Dorama | UNICÓRNIO IMPLACÁVEL S01" tvg-logo="https://i.imgur.com/edvgo0f.png",S01 E07
 http://shd13.oneplayer.site/SHD13/283776/1x7.mp4
+
 //////////////////////////////////////////////////VOD REALITY SHOW \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01" tvg-logo="https://imgur.com/AQKwXj6.png",S01 E01
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/1x1.mp4
 #EXTINF:-1 group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01" tvg-logo="https://imgur.com/AQKwXj6.png",S01 E02
@@ -2045,7 +2104,9 @@ http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/4x11.mp4
 #EXTINF:-1 group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04" tvg-logo="https://imgur.com/AQKwXj6.png",S04 E12
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/4x12.mp4
+
 //////////////////////////////////////////////////VOD FILMES \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="FILMES" tvg-logo="https://i.imgur.com/L89LBAz.png",Nando Entre Dois Mundos: Filme Sintonia
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt43640198.mp4
 #EXTINF:-1 group-title="FILMES" tvg-logo="https://i.imgur.com/L89LBAz.png",George Washington
@@ -2416,7 +2477,9 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13852690.mp4
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt18274350.mp4
 #EXTINF:-1 group-title="FILMES" tvg-logo="https://imgur.com/L89LBAz.png",Mulher nota 1000
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt0090305.mp4
+
 ////////////////////////////////////////////////// CANAIS AGRONEGOCIO    \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="CANAIS AGRONEGOCIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRyhZsNCkcqLrt_Ar_jStDGzt2JrQ5iY_s7rINRq5AoA&s",AgroMais SD
 http://tjtor8411.com:80/Osiel123/Felicidade321/71767.ts
 #EXTINF:-1 group-title="CANAIS AGRONEGOCIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZqFI68tEK2O3qBcNRKVC_GWsHuoPS1nY_tNcJeRTJB39OyP8aiDDkI3s&s=10",Canal do Boi FHD
@@ -2427,7 +2490,10 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/71821.ts
 http://tjtor8411.com:80/Osiel123/Felicidade321/178512.ts
 #EXTINF:-1 group-title="CANAIS AGRONEGOCIO" tvg-logo="https://imagens-cdn.canalrural.com.br/2024/11/1415350686406.jpg",Canal Rural HD
 http://tjtor8411.com:80/Osiel123/Felicidade321/178513.ts
+
+
 ////////////////////////////////////////////////// CANAIS RELIGIOSOS  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="CANAIS RELIGIOSOS" tvg-logo="https://i.postimg.cc/C5yc2L7w/Logotipo-TV-Pai-Eterno.png",Pai Eterno FHD
 http://tjtor8411.com:80/Osiel123/Felicidade321/72213.ts
 #EXTINF:-1 group-title="CANAIS RELIGIOSOS" tvg-logo="https://i.postimg.cc/C5yc2L7w/Logotipo-TV-Pai-Eterno.png",Pai Eterno HD
@@ -2438,7 +2504,11 @@ http://tjtor8411.com:80/Osiel123/Felicidade321/72295.ts
 http://tjtor8411.com:80/Osiel123/Felicidade321/90632.ts
 #EXTINF:-1 group-title="CANAIS RELIGIOSOS" tvg-logo="https://play-lh.googleusercontent.com/2PTax9Z9aI-BQdF3J7KLZppigmdCN7uKIo3kpqEeMHqEs--eKvmqSxi6d8FUw7i9ephGiZ5frywY-Lc1B6IL-oQ",CANÇÃO NOVA SD
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/458
+
+
+
 ////////////////////////////////////////////////// CANAIS 24 horas animes  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="CANAIS 24 horas animes" tvg-logo="https://i.postimg.cc/g0mdCmM3/pokemon-the-series-poster.webp",[24H] Pokémon
 http://tjtor8411.com:80/Osiel123/Felicidade321/138801.ts
 #EXTINF:-1 group-title="CANAIS 24 horas animes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMSci41QfyJ1oUxP5a2IAMr4QUf.jpg",POKÉMON
@@ -2558,7 +2628,9 @@ http://dnslm.online:80/4x6cXF/ehfxdp/508171.m3u8
 http://dnslm.online:80/4x6cXF/ehfxdp/508059.m3u8
 #EXTINF:-1 group-title="CANAIS 24 horas animes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhK51roYnFMxpYmFpmEBHYwCHNt.jpg",STREET FIGHTER II: VICTORY
 http://dnslm.online:80/4x6cXF/ehfxdp/508050.m3u8
+
 ////////////////////////////////////////////////// CANAIS 24 HORAS FILME  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS FILME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpeMeA3b54TuPVSsnk03ZxlYCDF.jpg",MARVEL - AGENTE CARTER
 http://dnslm.online:80/4x6cXF/ehfxdp/507981.m3u8
 #EXTINF:-1 group-title="CANAIS 24 HORAS FILME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/paf9wL3mOW9LT3ZjRxXqJcjeMEv.jpg",MARVEL - JESSICA JONES
@@ -2639,7 +2711,9 @@ http://dnslm.online:80/4x6cXF/ehfxdp/507940.m3u8
 http://dnslm.online:80/4x6cXF/ehfxdp/507941.m3u8
 #EXTINF:-1 group-title="CANAIS 24 HORAS FILME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MVybYeuZY7HSt3FhYvk4dMmYbD.jpg",EU SOU GROOT
 http://dnslm.online:80/4x6cXF/ehfxdp/507985.m3u8
+
 ////////////////////////////////////////////////// CANAIS 24 HORAS DESENHO  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="https://i.postimg.cc/B6sCVdZf/MV5BMGNk-Yz-Ax-Mj-Et-Nj-Fj-MS00NTU3LWJi-Ym-It-NGQ1MWQ2NTAw-Mjlm-Xk-Ey-Xk-Fqc-Gc-V1.jpg",[24H] A Família Urso
 http://tjtor8411.com:80/Osiel123/Felicidade321/135544.ts
 #EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="https://static.wikia.nocookie.net/vozesportuguesas/images/a/ae/Alien_TV.jpg/revision/latest?cb=20201230213023&path-prefix=pt",[24H] Alien TV
@@ -3238,7 +3312,9 @@ http://dnslm.online:80/4x6cXF/ehfxdp/508029.m3u8
 http://dnslm.online:80/4x6cXF/ehfxdp/507958.m3u8
 #EXTINF:-1 group-title="CANAIS 24 HORAS DESENHO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fETLDRm3d7ScIZT3Zu09LOUphw3.jpg",TELETUBBIES
 http://dnslm.online:80/4x6cXF/ehfxdp/507954.m3u8
+
 ////////////////////////////////////////////////// CANAIS 24 HORAS SERIES  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS SERIES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgRMSOt7a1b8qyQR68vUixJPang.jpg",BROOKLYN NINE-NINE: LEI E DESORDEM
 http://dnslm.online:80/4x6cXF/ehfxdp/507936.m3u8
 #EXTINF:-1 group-title=""CANAIS 24 HORAS SERIES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",FRIENDS
@@ -3299,7 +3375,14 @@ http://dnslm.online:80/4x6cXF/ehfxdp/507969.m3u8
 http://dnslm.online:80/4x6cXF/ehfxdp/507968.m3u8
 #EXTINF:-1 group-title="CANAIS 24 HORAS SERIES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5fhbaU1Mk98awGZyALELoqa1Bi.jpg",PESSOA DE INTERESSE
 http://dnslm.online:80/4x6cXF/ehfxdp/507946.m3u8
+
+
+
+
+
 ////////////////////////////////////////////////// CANAIS 24 HORAS SERIADO  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OpTb80gvYF34LPJNpvDPtnzIcM.jpg",CARROSSEL
 http://dnslm.online:80/4x6cXF/ehfxdp/508119.m3u8
 #EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljf1Yx8lDTQqsy8GRmHpIdptjJH.jpg",A CULPA É DO CABRAL 2
@@ -3512,7 +3595,18 @@ http://dnslm.online:80/4x6cXF/ehfxdp/507957.m3u8
 http://dnslm.online:80/4x6cXF/ehfxdp/507960.m3u8
 #EXTINF:-1 group-title="CANAIS 24 HORAS SERIADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mAyDNSCZDiejPTm4lwgbztut7y.jpg",WANDAVISION
 http://dnslm.online:80/4x6cXF/ehfxdp/507996.m3u8
+
+
+
+
+
+
+
+
+
+
 ////////////////////////////////////////////////// CANAIS 24 HORAS REALITY SHOW  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 #EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mm8ys7s1XyADCV9mlFtZYJ2Jui.jpg",AEROPORTO: ÁREA RESTRITA
 http://dnslm.online:80/4x6cXF/ehfxdp/507933.m3u8
 #EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srltefAUWZsKtEF9dgkg4Ssgjsw.jpg",AEROPORTO: ESTADOS UNIDOS
@@ -3649,7 +3743,11 @@ http://dnslm.online:80/4x6cXF/ehfxdp/89994.m3u8
 http://dnslm.online:80/4x6cXF/ehfxdp/90239.m3u8
 #EXTINF:-1 group-title="CANAIS 24 HORAS REALITY SHOW" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KifXFDsUDnoWdunVP0dfU6Pc7z.jpg",CHEFS DE ALTO NÍVEL COM GORDON RAMSAY
 http://dnslm.online:80/4x6cXF/ehfxdp/508031.m3u8
+
+
 --------------------------------------------------------------------------------------------www123----------------------------------------------------------------
+
+
 #EXTINF:-1 ,CINE SKY 1
 http://2346.bxdtxs.space:80/5390437158pw/981379889515pw/686
 #EXTINF:-1 ,CINE SKY 2
@@ -4054,5 +4152,5 @@ http://dnslm.online:80/4x6cXF/ehfxdp/91378.m3u8
 http://dnslm.online:80/4x6cXF/ehfxdp/91377.m3u8
 #EXTINF:-1 group-title="FILMES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925",CINE SKY 09
 http://dnslm.online:80/4x6cXF/ehfxdp/91376.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=5000
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06m/index.m3u8
